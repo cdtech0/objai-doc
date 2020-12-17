@@ -18,7 +18,7 @@
 | i5-8600+8M内存| Gtx1660(6G)|2个yolov4|20个并发|95ms/张|240ms/张|
 | E5-2620(双路)+64M内存| Gtx1080 Ti|4个yolov4|50个并发|90ms/张|200ms/张|
 
-**以上测试数据来自压力测试
+**以上测试数据来自压力测试(1080p)
 ## 使用说明
 1. 见[api.md](https://github.com/cdtech0/objai-doc/blob/main/api.md)
 
