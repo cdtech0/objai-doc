@@ -21,6 +21,4 @@
 **以上测试数据来自压力测试
 ## 使用说明
 1. 见[api.md](https://github.com/cdtech0/objai-doc/blob/main/api.md)
-## 联系方式
-QQ: 3046792092(星辰金科)
-Email: minepeople@gmail.com
+
